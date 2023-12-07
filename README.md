@@ -7,9 +7,9 @@
 ### **Contact Me 🎷**
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/jordan-j-0a8848229/">
+<!--   <a href="https://www.linkedin.com/in/jordan-j-0a8848229/">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; -->
   <a href="mailto:jonejordan523@gmail.com">
     <img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
